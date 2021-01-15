@@ -1,0 +1,17 @@
+shimmy10
+
+
+File Description:
+1. Law: A class representing a single law which will be introduced by a Knesset Member in the upcoming assembly.
+    This law strives to receive a high level of support by other Knesset Members.
+2. KnessetMember: A class representing a single Knesset Member, aka MK, with all his attributes.
+    A Knesset Member may support a certain amount of laws during an assembly, based on his attributes.
+3. Assembly: A class representing a Knesset meeting where laws are discussed. An assembly can contain
+    multiple Knesset Members and multiple laws, each by a specific ID. during the Assembly, each law may be
+    voted upon by each attending Knesset Member based on each MK's personal survey threshold per law.
+
+Design:
+No comments.
+
+Implementation Issues:
+None.
